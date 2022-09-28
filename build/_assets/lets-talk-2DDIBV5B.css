@@ -1,0 +1,27 @@
+.lets-talk {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 28px;
+}
+
+.text-box {
+  text-align: center;
+}
+
+.email {
+  border: 1px solid #68a678;
+  padding: 5px;
+  margin: 20px;
+}
+
+.name {
+  border: 1px solid #68a678;
+  padding: 5px;
+  margin: 20px;
+}
+
+.message {
+  border: 1px solid #68a678;
+  padding: 5px;
+  margin: 20px;
+}

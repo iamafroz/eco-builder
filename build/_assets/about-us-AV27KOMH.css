@@ -1,0 +1,87 @@
+.about-us-name {
+    font-size: 28px;
+    margin-top: 40px;
+    padding: 10px;
+  text-align: center;
+}
+.about{
+    padding: 0%;
+    margin: 0%;
+}
+
+.about-us-body {
+    margin: 0%;
+    padding: 0%;
+    
+  background-color: #e7ffed;
+}
+.our-mission-text{
+    padding-left: 10px;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+}
+
+.vision-img{
+    height: 20px;
+    width: 20px;
+    color: #68A678;
+}
+
+.mission-img{
+    height: 20px;
+    width: 20px;
+    color: #68A678;
+}
+
+.our{
+    line-height: 30px;
+}
+
+
+.our-vision-text{
+    padding-left: 10px;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+}
+.ourvision{
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 20px;
+    border: 3px solid  #68A678;
+}
+
+.ourmission{
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 20px;
+    border:  3px solid #68A678;
+}
+
+.meet{
+    margin-top: 40px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.poly1{
+    width: 100%;
+}
+
+
+.poly2{
+    width: 100%;
+}
+
+.poly3{
+    width: 100%;
+}
+
+
+.polygon{
+  padding: 10px;  
+  margin-top: 30px;
+  width: 100%;
+   
+}

@@ -1,0 +1,19 @@
+.about-us-name {
+  text-align: center;
+}
+
+.about-us-body {
+  padding: 10px;
+  background-color: #e7ffed;
+}
+.our-mission-text{
+    padding-left: 10px;
+    align-items: center;
+    text-align: center;
+}
+
+.vision-img{
+    height: 20px;
+    width: 20px;
+    background-color: #68A678;
+}

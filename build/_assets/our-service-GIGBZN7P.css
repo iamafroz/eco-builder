@@ -1,0 +1,53 @@
+.ourservicename{
+    margin: 50px 0px 50px 0px;
+    font-size: 30px;
+}
+
+.content-para{
+    font-size: 16px;
+    
+}
+
+.our-service{
+    width: 90%;
+    align-items: center;
+}
+
+li{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+.imageRect{
+    width: 100%;
+    
+}
+
+.office{
+    margin: 0%;
+}
+
+.building-office{
+    margin: 0%;
+}
+
+.office-name{
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+}
+
+.office-text{
+    line-height: 24px;
+    font-size: 16px;
+}
+
+.learn-more{
+    border-radius: 4px;
+    border: 0px solid #68A678;
+    color: white;
+    background-color: #68A678;
+    padding: 4px 10px 4px 10px;
+}

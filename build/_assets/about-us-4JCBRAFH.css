@@ -1,0 +1,41 @@
+.about-us-name {
+  text-align: center;
+}
+
+.about-us-body {
+  padding: 10px;
+  background-color: #e7ffed;
+}
+.our-mission-text{
+    padding-left: 10px;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+}
+
+.vision-img{
+    height: 20px;
+    width: 20px;
+    color: #68A678;
+}
+
+.mission-img{
+    height: 20px;
+    width: 20px;
+    color: #68A678;
+}
+
+.our-vision-text{
+    padding-left: 10px;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+}
+.ourvision{
+    padding: 20px;
+    border: 1px solid  #68A678;
+}
+
+.ourmission{
+    border:  1px solid #68A678;
+}

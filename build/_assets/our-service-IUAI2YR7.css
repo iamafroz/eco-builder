@@ -1,0 +1,43 @@
+.ourservicename{
+    text-align: center;
+    margin: 50px 0px 50px 0px;
+    font-size: 30px;
+}
+
+.content-para{
+    font-size: 16px;
+    padding: 10px 150px 10px 150px;
+}
+
+li{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.office{
+    margin: 30px 150px 0px 150px;
+}
+
+.imageRect{
+    width: 100%;
+}
+
+.office-name{
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+}
+
+.office-text{
+    line-height: 24px;
+    font-size: 16px;
+}
+
+.learn-more{
+    border-radius: 10px;
+    border: 0px solid #68A678;
+    color: white;
+    background-color: #68A678;
+    padding: 1px 5px 1px 5px;
+}
