@@ -45,7 +45,6 @@ export default function AboutUs() {
                 </div>
               </div>
             </div>
-            
           </div>
 
           <p className="meet">Meet our leaders:</p>
@@ -75,7 +74,12 @@ export default function AboutUs() {
 
             <div className="col-sm-4 col-xs-12 col-centered">
               <div className="col-sm col-xs-12 col-centered">
-                <img src={polygon3} alt="" className="poly3" />
+                <img
+                  src={polygon3}
+                  alt=""
+                  className="poly3"
+                
+                />
                 <div className="team-name">John James</div>
                 <div className="team-des">Head of Marketting</div>
                 <div className="team-des">
