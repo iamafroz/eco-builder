@@ -65,19 +65,23 @@
 }
 
 .poly1 {
-    border: 2px solid #68a678;
+  border: 2px solid #007471;
+  border-radius: 24px;
   width: 150px;
   height: 150px;
 }
 
 .poly2 {
-    border: 2px solid #68a678;
+  border: 2px solid #007471;
+  border-radius: 24px;
   width: 150px;
   height: 150px;
 }
 
 .poly3 {
-    border: 2px solid #68a678;
+  border: 2px solid #007471;
+  border-radius: 24px;
+
   width: 150px;
   height: 150px;
 }
