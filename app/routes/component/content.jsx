@@ -1,31 +1,29 @@
 import style from "~/css/content.css";
 import constructImg from "~/images/construction.png";
 
-export default function Content() {
+export default function Content({ value }) {
   return (
-    <html lang="en">
-      <head>
-        <link rel="stylesheet" href={style} />
-        <meta charset="UTF-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Content</title>
-      </head>
-      <body>
-        <div className="container1" align="center">
-          <div className="row align-items-center content" align="center">
-            <div className="col-sm-6 col-xs-6 aa">
-              <p className="heading-content">Building something?</p>
-              Eco-builders is a team of professional construction workers whose
-              sole mission is to build durable and eco-friendly buildings.
-            </div>
 
-            <div className="col-sm-6 col-xs-6 order-first order-md-last ">
-              <img src={constructImg} alt="" className="construct-img" />
-            </div>
-          </div>
+    <div className="grid justify-items-center">
+
+
+      <div className="grid grid-cols-2 gap-4 justify-items-center my-11 w-3/4">
+
+        <div className="basic-1/2 text-center self-center" >
+          <p className="heading-content text-black font-bold text-3xl">{value}</p>
+          Eco-builders is a team of professional construction workers whose
+          sole mission is to build durable and eco-friendly buildings.
+
         </div>
-      </body>
-    </html>
+
+        <div className="basic-1/2" >
+          <img src={constructImg} alt="" className="construct-img" />
+
+        </div>
+
+      </div>
+
+    </div>
+
   );
 }
