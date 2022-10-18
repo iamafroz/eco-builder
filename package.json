@@ -20,7 +20,8 @@
     "@remix-run/dev": "^1.7.2",
     "@remix-run/eslint-config": "^1.7.2",
     "@remix-run/serve": "^1.7.2",
-    "eslint": "^8.23.1"
+    "eslint": "^8.23.1",
+    "tailwindcss": "^3.1.8"
   },
   "engines": {
     "node": ">=14"
