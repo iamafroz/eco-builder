@@ -5,38 +5,36 @@ export default function LetsTalk() {
 
 
 
-    <div className="main-lets-talk">
-      <link rel="stylesheet" href={style} />
-      <p className="lets-talk">Let’s talk</p>
+    <div className="main-lets-talk grid justify-items-center">
+      <p className="lets-talk text-black text-2xl">Let’s talk</p>
 
       <div className="text-box">
-        <div className="col-sm col-xs">
+        <div className="grid grid-cols-1 lg:cols-1 sm:grid-cols-1">
           <input
             type="text"
-
             placeholder="Enter your email"
-            className="email"
+            className="email rounded border-2 border-solid border-[#68A678] p-[2px] m-[4px]"
           />
         </div>
 
-        <div className="col-sm col-xs">
+        <div className="grid grid-cols-1 lg:cols-1 sm:grid-cols-1">
           <input
             type="text"
             placeholder="Enter your full name"
-            className="name"
+            className="name  rounded border-2 border-solid border-[#68A678] p-[2px] m-[4px]"
           />
         </div>
 
-        <div className="col-sm col-xs">
+        <div className="grid grid-cols-1 lg:cols-1 sm:grid-cols-1">
           <input
             type="text"
             placeholder="Enter message.."
-            className="message"
+            className="message  rounded border-2 border-solid border-[#68A678] p-[2px] m-[4px]"
           />
         </div>
 
-        <div className="col-sm col-xs">
-          <button className="send-message">
+        <div className="grid grid-cols-1 lg:cols-1 sm:grid-cols-1">
+          <button className="send-message  text-white rounded border-2 border-solid border-[#68A678] p-[2px] m-[4px] bg-[#68A678]">
             Send Message
           </button>
         </div>
