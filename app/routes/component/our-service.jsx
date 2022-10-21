@@ -2,6 +2,7 @@ import imageRect from "~/images/imagerect.png";
 
 export default function OurService() {
   return (
+    <>
     <div className="our-service grid">
       <div className="our-service justify-self-center">
         <div className="grid px-2">
@@ -79,5 +80,6 @@ export default function OurService() {
 
 
     </div>
+    </>
   );
 }

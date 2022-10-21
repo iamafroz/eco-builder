@@ -1,11 +1,10 @@
-import style from "~/css/content.css";
 import constructImg from "~/images/construction.png";
 
 export default function Content({ value }) {
   return (
 
 
-
+<>
 
     <div className="grid justify-center">
 
@@ -27,6 +26,8 @@ export default function Content({ value }) {
 
 
     </div>
+
+    </>
 
   );
 }
